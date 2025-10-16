@@ -1,117 +1,231 @@
-<div align="center">
+<div align="center"><div align="center">
 
-# 👋 Hi, I'm Geo Jeevan Raj C
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=800&lines=Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;ML+Intern+%40+Persevex+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%92%A1;Problem+Solver+%7C+Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<br/>
+# 👋 Hi, I'm Geo Jeevan Raj C# 👋 Hi, I'm Geo Jeevan Raj C
 
-### 📍 Coimbatore, India | 🎯 Dream: Developing My Own LLM
 
-[![Profile Views](https://komarev.com/ghpvc/?username=geojeevanraj&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/geojeevanraj)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=800&lines=Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;ML+Intern+%40+Persevex+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%92%A1;Problem+Solver+%7C+Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=800&lines=Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;ML+Intern+%40+Persevex+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%92%A1;Problem+Solver+%7C+Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+
+
+
+<br/><br/>
+
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=geojeevanraj&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/geojeevanraj)### 📍 Coimbatore, India | 🎯 Dream: Developing My Own LLM
+
+
+
+</div>[![Profile Views](https://komarev.com/ghpvc/?username=geojeevanraj&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/geojeevanraj)
+
 [![GitHub followers](https://img.shields.io/github/followers/geojeevanraj?label=Followers&style=social)](https://github.com/geojeevanraj?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/geojeevanraj?label=Stars&style=social)](https://github.com/geojeevanraj)
 
-</div>
+---[![GitHub Stars](https://img.shields.io/github/stars/geojeevanraj?label=Stars&style=social)](https://github.com/geojeevanraj)
 
----
 
-## 🚀 About Me
 
-```python
+## 🚀 About Me</div>
+
+
+
+```python---
+
 class GeoJeevanRaj:
-    def __init__(self):
+
+    def __init__(self):## 🚀 About Me
+
         self.name = "Geo Jeevan Raj C"
-        self.role = "ML Engineer Intern @ Persevex"
-        self.location = "Coimbatore, India"
-        self.languages = ["Python", "C", "SQL", "JavaScript"]
-        self.current_focus = "AI/ML & LLM Development"
-        self.dream = "Building My Own Large Language Model"
+
+        self.role = "ML Engineer Intern @ Persevex"```python
+
+        self.location = "Coimbatore, India"class GeoJeevanRaj:
+
+        self.languages = ["Python", "C", "SQL", "JavaScript"]    def __init__(self):
+
+        self.current_focus = "AI/ML & LLM Development"        self.name = "Geo Jeevan Raj C"
+
+        self.dream = "Building My Own Large Language Model"        self.role = "ML Engineer Intern @ Persevex"
+
+                self.location = "Coimbatore, India"
+
+    def say_hi(self):        self.languages = ["Python", "C", "SQL", "JavaScript"]
+
+        print("Thanks for dropping by! Let's build something amazing together!")        self.current_focus = "AI/ML & LLM Development"
+
+                self.dream = "Building My Own Large Language Model"
+
+    def current_work(self):        
+
+        return [    def say_hi(self):
+
+            "🔭 Training as an ML Engineer Intern",        print("Thanks for dropping by! Let's build something amazing together!")
+
+            "🧠 Deep diving into AI/ML algorithms",        
+
+            "💻 Building real-world ML applications",    def current_work(self):
+
+            "📚 Preparing to develop my own LLM",        return [
+
+            "🌱 Contributing to open-source projects"            "🔭 Training as an ML Engineer Intern",
+
+        ]            "🧠 Deep diving into AI/ML algorithms",
+
+                    "💻 Building real-world ML applications",
+
+me = GeoJeevanRaj()            "📚 Preparing to develop my own LLM",
+
+me.say_hi()            "🌱 Contributing to open-source projects"
+
+```        ]
+
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-        
-    def current_work(self):
-        return [
-            "🔭 Training as an ML Engineer Intern",
-            "🧠 Deep diving into AI/ML algorithms",
-            "💻 Building real-world ML applications",
-            "📚 Preparing to develop my own LLM",
-            "🌱 Contributing to open-source projects"
-        ]
-        
-me = GeoJeevanRaj()
+
+---me = GeoJeevanRaj()
+
 me.say_hi()
-```
 
-<div align="center">
+## 🛠️ Tech Stack```
 
-### 💡 What Drives Me
-*"Transforming complex problems into intelligent solutions through the power of Machine Learning"*
 
-</div>
 
----
+<div align="center"><div align="center">
 
-## 🛠️ Tech Arsenal
 
-<div align="center">
 
-### 🤖 AI/ML & Data Science
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+### 🤖 AI/ML & Data Science### 💡 What Drives Me
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)*"Transforming complex problems into intelligent solutions through the power of Machine Learning"*
+
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-### 💻 Programming Languages
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)</div>
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)---
+
+
+
+### 💻 Programming Languages## 🛠️ Tech Arsenal
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)<div align="center">
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### 🌐 Web & Mobile Development
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### 🤖 AI/ML & Data Science
 
-### 🗄️ Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+### 🌐 Web & Mobile Development[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)### 💻 Programming Languages
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+### 🗄️ Databases[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-### 🔧 Tools & Version Control
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### 🌐 Web & Mobile Development
 
-</div>
+### 🔧 Tools & Version Control[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
----
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-## 📊 GitHub Analytics
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
-<div align="center">
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+</div>[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+
+---### 🗄️ Databases
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+## 📊 GitHub Stats[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+
+
+<div align="center">### 🔧 Tools & Version Control
+
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=geojeevanraj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=geojeevanraj&theme=radical&hide_border=true" />[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojeevanraj&layout=compact&theme=radical&hide_border=true&langs_count=8" /></div>
+
+
+
+</div>---
+
+
+
+---## 📊 GitHub Analytics
+
+
+
+## 📱 Connect With Me<div align="center">
+
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=geojeevanraj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=geojeevanraj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=geojeevanraj&theme=radical&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojeevanraj&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojeevanraj&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geojeevanraj)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)</div>
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)<div align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=geojeevanraj&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
-<div align="center">
+</div></div>
+
+
+
+---<div align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geojeevanraj&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
----
+<div align="center"></div>
 
-## 💼 Professional Journey
+
+
+**Made with 💙 by Geo Jeevan Raj C**---
+
+
+
+</div>## 💼 Professional Journey
+
 
 <div align="center">
 
